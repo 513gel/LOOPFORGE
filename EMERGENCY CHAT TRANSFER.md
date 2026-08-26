@@ -43,3 +43,9 @@ Functional v0.1 foundation complete and locally verified. The static application
 3. Add WebM/PNG-sequence export without changing the normalized phase contract.
 4. Add Mechanical Linkage and Tile Machine generator families.
 5. Add pixel-level first/terminal seam regression coverage for all generators.
+
+## Deployment
+
+- GitHub release: `https://github.com/513gel/LOOPFORGE/releases/tag/v0.1.0`
+- Live test route: `https://13thoni.com/LOOPFORGE/`
+- Website integration and its 16-route suite passed on 2026-08-26; an external GET returned HTTP 200 with the expected title.
